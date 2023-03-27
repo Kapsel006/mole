@@ -1,0 +1,16 @@
+﻿<html>
+<head>
+<title>styl zewnetrzny</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- zewnetrzne -->
+ <LINK href="mole_zad6.css" rel="stylesheet" 
+type="text/CSS">
+</head>
+<body bgcolor="silver">
+ <kys>: | powaga</kys>
+ <p> :0 szok </p>
+  <kys>:( sad </kys>
+  <p> :c very sad </p>
+   <kys>:) happy</kys>
+ </body>
+</html>

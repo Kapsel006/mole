@@ -18,6 +18,6 @@
 
 p
  {
- color:teal;
+ color:fuchsia;
  font-size:71pt;
  }
